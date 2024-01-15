@@ -1,5 +1,10 @@
 This is bob's file.
 
-Hi Bob!! I am still here.
+<<<<<<< HEAD
+Hi Bob!! I am new here.
+=======
+Hi Bob!! I am new here.
+>>>>>>> bobby_branch
 
 I'm new here.
+A third new line.
