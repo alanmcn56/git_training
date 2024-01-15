@@ -1,10 +1,1 @@
-This is bob's file.
-
-<<<<<<< HEAD
-Hi Bob!! I am new here.
-=======
-Hi Bob!! I am new here.
->>>>>>> bobby_branch
-
-I'm new here.
-A third new line.
+This is bob's fixed file.
